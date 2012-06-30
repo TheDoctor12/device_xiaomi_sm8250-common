@@ -247,6 +247,7 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 CONFIG_IEEE80211AX := true
 
 CONFIG_ACS := true
+CONFIG_IEEE80211AC := true
 
 # Inherit the proprietary files
 include vendor/xiaomi/sm8250-common/BoardConfigVendor.mk
